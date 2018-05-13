@@ -1,0 +1,3 @@
+#
+export DISPLAY=:0
+GTK2_RC_FILES=/home/traymund/bin/gtkrc-elapse /home/traymund/eclipse/cpp-oxygen/eclipse/eclipse
